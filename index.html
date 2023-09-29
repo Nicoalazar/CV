@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Curriculum</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <header>
+        <h1>Mi Curriculum</h1>
+    </header>
+
+    <nav>
+        <a href="#informacion-personal" onclick="scrollToSection('#informacion-personal')">Información Personal</a>
+        <a href="#experiencia" onclick="scrollToSection('#experiencia')">Experiencia Laboral</a>
+        <a href="#habilidades" onclick="scrollToSection('#habilidades')">Habilidades</a>       
+    </nav>
+
+    <button id="btn-info-adicional" onclick="mostrarOcultarInfoAdicional()">Mostrar/Ocultar Información Adicional</button>
+         
+    <section id="informacion-personal">
+        <img src="https://randomuser.me/api/portraits/men/1.jpg" alt="Mi Foto">
+        <h2>Información Personal</h2>
+        <ul>
+            <li><strong>Nombre:</strong> Juan Pérez</li>
+            <li><strong>Fecha de Nacimiento:</strong> 01/01/1990</li>
+            <li><strong>Dirección:</strong> Calle Falsa 123</li>
+            <li><strong>Email:</strong> juan@example.com</li>
+            <li><strong>Teléfono:</strong> 123-456-789</li>
+        </ul>
+    </section>
+    
+    <section id="info-adicional">
+        <h2> Info Adicional </h2>
+        <ul>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+        </ul> 
+    </section>
+
+    <section id="experiencia">
+        <h2>Experiencia Laboral</h2>
+        <ul>
+            <li>
+                <h3>Desarrollador Web, Empresa ABC</h3>
+                <p>Trabajé en el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS, y JavaScript.</p>
+            </li>
+            <li>
+                <h3>Analista de Datos, Empresa XYZ</h3>
+                <p>Me encargué de analizar grandes conjuntos de datos para obtener información valiosa para la empresa.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="habilidades">
+        <h2>Habilidades</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>React.js</li>
+            <li>Análisis de Datos</li>
+            <li>Comunicación Interpersonal</li>
+        </ul>
+    </section>
+
+    <button id="btn-volver-arriba" onclick="scrollToTop()">Volver Arriba</button>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+
