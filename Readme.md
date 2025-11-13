@@ -1,95 +1,80 @@
 # **Nicolás Zalazar**
-**Frontend Developer Junior (Angular · JavaScript · HTML · CSS)**  
+**Administrativo / Soporte Técnico**  
 📍 Buenos Aires, Argentina  
 📞 11 3027 5883  
 📧 nicozalazar67@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/nicolasjoelzalazar  
-💻 GitHub: https://github.com/Nicoalazar  
 
 ---
 
 ## **Perfil Profesional**
-Frontend Developer Junior con experiencia construyendo interfaces y módulos completos en Angular para sistemas de alta criticidad. Manejo sólido de JavaScript, TypeScript, HTML, CSS, componentes, formularios, validaciones, consumo de APIs REST y diseño responsivo. Foco en buenas prácticas, mantenibilidad, claridad visual y trabajo en equipo dentro de entornos ágiles. Busco roles donde continuar creciendo como frontend y aportar valor con interfaces claras y funcionales.
+Profesional con amplia experiencia en gestión administrativa, elaboración de reportes, atención al público, soporte técnico y manejo de sistemas internos. Trayectoria en universidades, áreas institucionales y soporte de software, combinando habilidades administrativas con conocimientos técnicos. Capacidad para trabajar de forma organizada, con atención al detalle, gestión documental y resolución eficiente de incidencias.
 
 ---
 
 ## **Habilidades Técnicas**
-
-### **Frontend**
-- Angular  
-- JavaScript (ES6+)  
-- TypeScript  
-- HTML5  
-- CSS3  
-- Bootstrap  
-- Tailwind CSS  
-- Angular Material  
-- Responsive Design  
-- Consumo de APIs REST
-
-### **Herramientas**
-- Git & GitHub (branches, PRs, Projects)  
-- VS Code  
-- Postman  
-- UML / Mermaid  
-- Figma *(básico, si querés agregarlo luego)*
-
-### **Backend (complementario)**
-- Node.js / Express / AdonisJS  
-- SQL (consultas y vistas simples)
+- Excel avanzado  
+- Power BI básico  
+- Manejo de sistemas administrativos  
+- Reportes y análisis de datos  
+- Soporte técnico a usuarios  
+- C#, .NET (mantenimiento simple)  
+- SQL básico  
+- Herramientas de oficina (Word, PPT)  
+- Git básico  
 
 ---
 
 ## **Experiencia Laboral**
 
+### **Universidad Nacional de San Juan — Área de Sistemas (Club Deportivo)**  
+**Soporte Técnico y Mantenimiento de Software | 2020 – 2023**  
+- Soporte técnico a usuarios del sistema de socios.  
+- Mantenimiento correctivo y mejoras menores en el sistema desarrollado en C#/.NET.  
+- Ajustes en base de datos y consultas.  
+- Documentación de cambios y procesos.  
+- Resolución de incidencias operativas.
+
+---
+
+### **Universidad Nacional de San Juan — Administrativo**  
+**2015 – 2020**  
+- Atención al público, gestión de trámites y soporte a distintas áreas.  
+- Manejo de caja chica y proveedores.  
+- Elaboración de reportes anuales y manejo de datos en Excel.  
+- Carga y verificación en sistemas internos.  
+
+---
+
 ### **Hospital — Área de Sistemas**  
-**Frontend / Full Stack Junior | 2023 – Actualidad**  
-**Tecnologías:** Angular, JavaScript, TypeScript, HTML, CSS, Node.js  
-- Desarrollo de pantallas, formularios y componentes reutilizables.  
-- Consumo de APIs REST e integración con backend interno.  
-- Validaciones, manejo de estados, UX y flujos operativos.  
-- Refactorización de componentes para mejorar legibilidad y eficiencia.  
-- Corrección de bugs y mejoras en UI.  
-- Participación en sprints y trabajo colaborativo.
+**2023 – Actualidad (colaboración administrativa-técnica)**  
+- Carga de datos, soporte técnico y asistencia en procesos internos de sistemas.  
+- Comunicación con sectores operativos y resolución de incidentes.  
 
 ---
 
-### **Universidad Nacional de San Juan — Área de Sistemas**  
-**Soporte Técnico de Sistema Interno | 2020 – 2023**  
-**Tecnologías:** C#, .NET, SQL  
-- Mantenimiento de sistema institucional y soporte a usuarios.  
-- Actualización de pequeñas funcionalidades.  
-- Documentación y mejoras incrementales.
-
----
-
-### **Profesor de Análisis de Datos — GCBA**  
-**2023 – 2024**  
-- Enseñanza de Excel y Power BI.  
-- Acompañamiento técnico a estudiantes.
+### **Profesor de Apoyo Escolar / Universitario**  
+**2013 – 2016**  
+- Enseñanza voluntaria en materias técnicas y matemáticas.  
+- Acompañamiento académico y preparación de ejercicios.
 
 ---
 
 ## **Educación**
 **Tecnicatura en Desarrollo de Software — IFTS N°29** *(en curso)*  
 **Ingeniería Industrial — UNSJ (4 años cursados)**  
-
-**Cursos Técnicos**
-- Angular avanzado  
-- JavaScript / TypeScript  
-- CSS y responsive design  
-- Node.js básico  
-- Git & GitHub Projects  
+*Formación en matemática, lógica, estadística y análisis de procesos.*
 
 ---
 
 ## **Habilidades Blandas**
 - Atención al detalle  
-- Comunicación clara  
+- Comunicación efectiva  
+- Trato con público  
+- Organización documental  
+- Resolución de problemas  
 - Trabajo en equipo  
-- Pensamiento crítico  
 - Adaptabilidad  
-- Organización en sprints  
 
 ---
 
@@ -99,7 +84,6 @@ Frontend Developer Junior con experiencia construyendo interfaces y módulos com
 ---
 
 ## **Intereses**
-- Diseño de interfaces  
-- Programación frontend  
-- Deportes y trabajo en equipo  
-- Ajedrez  
+- Gestión administrativa  
+- Datos y reportes  
+- Deporte y trabajo en equipo  
