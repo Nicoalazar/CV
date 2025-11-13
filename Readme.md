@@ -1,5 +1,5 @@
 # **Nicolás Zalazar**
-**Desarrollador Full Stack Junior — Enfoque Backend (Node.js · Angular · SQL)**  
+**Backend Developer Junior (Node.js · SQL · Arquitectura · APIs)**  
 📍 Buenos Aires, Argentina  
 📞 11 3027 5883  
 📧 nicozalazar67@gmail.com  
@@ -9,154 +9,109 @@
 ---
 
 ## **Perfil Profesional**
-Desarrollador Full Stack Junior orientado al backend, con experiencia comprobada en sistemas críticos del sector salud y gestión deportiva. Manejo sólido de Node.js, Angular y bases de datos SQL Server/MySQL, participando en arquitecturas completas, optimización de consultas y automatización de procesos. Capacidad para desarrollar módulos funcionales end-to-end, integrar frontend-backend y mejorar flujos internos. Me caracterizo por el pensamiento crítico, la resolución práctica de problemas y la autogestión. Busco entornos donde pueda aportar valor inmediato y seguir creciendo profesionalmente.
+Backend Developer Junior con experiencia real en sistemas críticos del sector salud. Manejo sólido de Node.js, AdonisJS, Express y bases de datos SQL Server/MySQL. Desarrollo de APIs REST, optimización de consultas, creación de stored procedures y vistas, manejo eficiente de grandes volúmenes de datos y refactorización para mejorar performance. Trabajo orientado a buenas prácticas, arquitectura simple y mantenible, y resolución rápida de problemas. Busco roles donde aportar valor desde el backend y seguir creciendo en diseño de sistemas.
 
 ---
 
 ## **Habilidades Técnicas**
 
 ### **Lenguajes**
-- JavaScript (ES6+)  
-- TypeScript  
-- SQL  
-- C#  
+- JavaScript (ES6+)
+- TypeScript
+- SQL
+- C#
 
 ### **Backend**
-- Node.js  
-- AdonisJS  
-- Express  
-- Arquitectura modular  
-- Streams, rutas, middlewares  
-
-### **Frontend**
-- Angular  
-- React.js *(en aprendizaje)*  
-- HTML5  
-- CSS3  
-- Bootstrap  
-- Tailwind CSS  
-- Angular Material  
+- Node.js
+- AdonisJS
+- Express
+- Arquitectura modular
+- APIs REST
+- Streams, middlewares, validaciones
+- Patrones básicos de diseño
 
 ### **Bases de Datos**
-- SQL Server  
-- MySQL  
-- PostgreSQL  
-- Stored Procedures, Views, Functions  
-- Modelado y optimización de consultas  
+- SQL Server
+- MySQL
+- PostgreSQL
+- Stored Procedures, Views, Functions
+- Optimización de rendimiento y modelado de datos
 
-### **DevOps / Herramientas**
-- Docker  
-- Git & GitHub (Branches, PRs, GitFlow, Projects)  
-- Railway / Render / Vercel  
-- VS Code / Visual Studio  
-- Postman  
-- UML (Mermaid)
+### **Infraestructura / DevOps**
+- Docker
+- Git & GitHub (GitFlow, PRs, Projects)
+- Railway / Render / Vercel
+- Postman
 
-### **Análisis y Reportes**
-- Excel avanzado  
-- Power BI básico  
-- Construcción de reportes operativos y KPIs
-
-### **Metodologías**
-- Scrum  
-- Sprints  
-- Kanban  
-- Historias de usuario  
+### **Complementario**
+- Angular (consumo de APIs)
+- C# / .NET Framework
 
 ---
 
 ## **Experiencia Laboral**
 
 ### **Hospital — Área de Sistemas**  
-**Programador Full Stack Junior | 2023 – Actualidad**  
-**Tecnologías:** Node.js, Angular, SQL Server, MySQL, C#, Git, Docker  
-- Desarrollo de nuevos módulos y pantallas para sistemas hospitalarios internos.  
-- Implementación y mantenimiento de APIs en Node.js con consultas SQL optimizadas.  
-- Creación de vistas, funciones y stored procedures para mejorar procesos internos.  
-- Integración full stack: backend + frontend con Angular y C#.  
-- Refactorización de componentes para aumentar estabilidad y performance.  
-- Corrección de bugs y soporte técnico en entornos productivos.  
-- Documentación técnica y colaboración en sprints ágiles.
+**Backend / Full Stack Junior | 2023 – Actualidad**  
+**Tecnologías:** Node.js, AdonisJS, Express, SQL Server, MySQL, Angular, C#, Docker  
+- Desarrollo y mantenimiento de APIs REST.  
+- Optimización de consultas SQL de alta complejidad.  
+- Creación de stored procedures, vistas y funciones.  
+- Refactorización del backend para mejorar performance y legibilidad.  
+- Manejo de módulos internos con lógica crítica del sistema.  
+- Integración backend ↔ frontend con Angular.  
+- Resolución de bugs críticos y soporte técnico avanzado.
 
 ---
 
 ### **Universidad Nacional de San Juan — Área de Sistemas (Club Deportivo Universitario)**  
 **Soporte Técnico y Mantenimiento de Software | 2020 – 2023**  
-**Tecnologías:** C#, .NET Framework, SQL, soporte a usuarios  
-- Brindé soporte técnico a usuarios del sistema de socios del área de deportes.  
-- Realicé mantenimiento correctivo y pequeñas mejoras en el sistema desarrollado en C#/.NET.  
-- Optimizé flujos internos y resolví incidencias reportadas por el personal administrativo.  
-- Implementé ajustes menores en la base de datos del sistema.  
-- Documenté cambios y sugerí mejoras incrementales para aumentar estabilidad y usabilidad.
+**Tecnologías:** C#, .NET Framework, SQL  
+- Mantenimiento correctivo y mejoras en sistema interno en C#/.NET.  
+- Optimización de flujos y resolución de incidencias.  
+- Ajustes en la base de datos y consultas vinculadas al sistema.  
+- Documentación técnica y soporte a usuarios.
 
 ---
 
-### **Profesor de Análisis de Datos — Gobierno de la Ciudad de Buenos Aires**  
-**Programa “Codo a Codo” | 2023 – 2024**  
-- Dictado de clases de Excel y Power BI orientadas al análisis y visualización de datos.  
-- Preparación de actividades prácticas y acompañamiento académico de estudiantes.  
-
----
-
-### **Universidad Nacional de San Juan — Administrativo**  
-**2015 – 2020**  
-- Gestión administrativa en Rectorado: atención a público, proveedores y áreas internas.  
-- Manejo de caja chica y circuitos administrativos.  
-- Elaboración de reportes anuales basados en datos (Excel).  
-- Uso de sistemas internos y bases de datos administrativas.
-
----
-
-### **Universidad Nacional de San Juan — Ayudante de Cátedra**  
-**Cátedras de Estadística y Economía | 2020 – 2022**  
-- Apoyo en clases prácticas y resolución de ejercicios.  
-- Refuerzo de conceptos matemáticos y estadísticos.  
-- Desarrollo de habilidades de comunicación técnica y pedagógica.
+### **Profesor de Análisis de Datos — GCBA (Codo a Codo)**  
+**2023 – 2024**  
+- Enseñanza de Excel avanzado y Power BI orientado a análisis.
 
 ---
 
 ## **Educación**
 
-### **Formación Académica**
 **Tecnicatura en Desarrollo de Software — IFTS N°29** *(en curso)*  
 
 **Ingeniería Industrial — UNSJ (4 años cursados)**  
-*Avance académico significativo con la mayoría de las materias y finales aprobados. Formación en lógica, matemáticas, estadística, procesos y optimización.*
+*Formación en lógica, estadística, matemáticas y optimización.*
 
-### **Cursos Técnicos**
-- Desarrollo Backend con Node.js  
-- Angular Avanzado  
-- SQL y Bases de Datos  
-- C# y WinForms  
+**Cursos Técnicos**
+- Node.js backend  
+- SQL avanzado  
 - Docker  
-- Lógica Computacional / Lógica Proposicional  
+- Lógica computacional  
 - Git y GitHub Projects  
 
 ---
 
-## **Habilidades Blandas (orientadas a tecnología)**
-- Enfoque práctico para resolver problemas complejos.  
-- Documentación clara y comunicación técnica efectiva.  
-- Autogestión y organización dentro de sprints ágiles.  
-- Adaptabilidad a nuevas tecnologías y procesos.  
-- Atención al detalle en código y consultas.  
-- Colaboración con equipos multidisciplinarios.
+## **Habilidades Blandas**
+- Pensamiento crítico  
+- Resolución de problemas  
+- Trabajo organizado en sprints  
+- Comunicación técnica  
+- Adaptabilidad  
+- Atención al detalle  
 
 ---
 
 ## **Idiomas**
-- Inglés técnico orientado a lectura de documentación y recursos de desarrollo.
+- Inglés técnico (lectura)
 
 ---
 
-## **Intereses y Voluntariado**
-
-### **Aficiones**
-- Handball competitivo (2005–2015)  
-- Ajedrez amateur  
-- Fútbol amateur  
-- Programación y análisis de datos  
-
-### **Voluntariado**
-- Profesor de apoyo escolar y universitario (voluntario) en entidad benéfica (2013–2016).  
-- Participación en actividades educativas y comunitarias brindando acompañamiento académico.  
+## **Intereses**
+- Programación  
+- Ajedrez  
+- Deportes de equipo  
