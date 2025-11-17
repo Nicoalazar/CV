@@ -1,15 +1,14 @@
 {
   "name": "Nicolás Zalazar",
-  "position": "Desarrollador Full Stack Junior",
+  "title": "Desarrollador Full Stack Junior",
   "location": "Buenos Aires, Argentina",
-  "contact": {
-    "phone": "11 3027 5883",
-    "email": "nicozalazar67@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar",
-    "github": "https://github.com/Nicoalazar"
-  },
 
-  "summary": "Desarrollador Full Stack Junior con experiencia demostrada en el sector salud. Dominio de Node.js, Angular y SQL. Capaz de crear, mantener y mejorar módulos completos, optimizar consultas complejas y trabajar bajo metodologías ágiles. Perfil analítico, adaptable y orientado a resolver problemas reales con calidad y eficiencia.",
+  "phone": "11 3027 5883",
+  "email": "nicozalazar67@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar",
+  "github": "https://github.com/Nicoalazar",
+
+  "profile": "Desarrollador Full Stack Junior con experiencia demostrada en el sector salud. Dominio de Node.js, Angular y SQL. Capaz de crear, mantener y mejorar módulos completos, optimizar consultas complejas y trabajar bajo metodologías ágiles. Perfil analítico, adaptable y orientado a resolver problemas reales con calidad y eficiencia.",
 
   "skills": {
     "languages": ["JavaScript", "TypeScript", "SQL", "C#"],
@@ -18,7 +17,7 @@
     "databases": ["SQL Server", "MySQL", "PostgreSQL"],
     "devops": ["Docker", "GitHub", "Railway", "Render", "Vercel"],
     "tools": ["VS Code", "Visual Studio", "Postman"],
-    "methodologies": ["Scrum", "Kanban", "Sprints"]
+    "methods": ["Scrum", "Kanban", "Sprints"]
   },
 
   "experience": [
@@ -26,7 +25,6 @@
       "company": "Hospital — Área de Sistemas",
       "role": "Programador Full Stack Junior",
       "period": "2023 - Actualidad",
-      "technologies": ["Node.js", "Angular", "SQL Server", "C#", "Docker"],
       "responsibilities": [
         "Desarrollo y mantenimiento de sistemas internos hospitalarios.",
         "Implementación y optimización de APIs en Node.js.",
@@ -51,7 +49,6 @@
       "company": "Universidad Nacional de San Juan — Área de Sistemas",
       "role": "Soporte Técnico y Mantenimiento de Software",
       "period": "2020 - 2023",
-      "technologies": ["C#", ".NET Framework", "SQL"],
       "responsibilities": [
         "Soporte técnico a usuarios del sistema de socios.",
         "Mantenimiento correctivo del sistema en C#/.NET.",
@@ -86,7 +83,7 @@
     {
       "title": "Tecnicatura en Desarrollo de Software",
       "institution": "IFTS N°29",
-      "status": "En curso"
+      "details": "En curso"
     },
     {
       "title": "Ingeniería Industrial (4 años cursados)",
@@ -95,6 +92,7 @@
     },
     {
       "title": "Cursos Técnicos",
+      "institution": "",
       "items": [
         "Desarrollo Backend con Node.js",
         "Angular Avanzado",
@@ -116,7 +114,12 @@
     "Resolución de problemas complejos"
   ],
 
-  "interests": ["Ajedrez", "Programación", "Handball", "Fútbol amateur"],
+  "interests": [
+    "Ajedrez",
+    "Programación",
+    "Handball",
+    "Fútbol amateur"
+  ],
 
   "volunteering": [
     {
