@@ -1,0 +1,51 @@
+{
+  "name": "Nicolás Zalazar",
+  "position": "Empleado Administrativo / Soporte Técnico",
+  "location": "Buenos Aires, Argentina",
+  "contact": {
+    "phone": "11 3027 5883",
+    "email": "nicozalazar67@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar"
+  },
+
+  "summary": "Empleado administrativo con trayectoria en gestión de documentos, atención al público, soporte técnico y elaboración de reportes. Experiencia en universidades y organismos públicos. Perfil organizado, responsable y orientado a la resolución de problemas.",
+
+  "skills": {
+    "administrativas": ["Atención al público", "Gestión documental", "Proveedores", "Caja chica"],
+    "tecnicas": ["Excel avanzado", "Sistemas internos", "Reportes", "Soporte técnico"],
+    "tecnologias": ["Excel", "Word", "SQL básico", "Sistemas institucionales"],
+    "personales": ["Responsabilidad", "Organización", "Trabajo en equipo", "Comunicación clara"]
+  },
+
+  "experience": [
+    {
+      "company": "Universidad Nacional de San Juan",
+      "role": "Personal Administrativo",
+      "period": "2015 - 2020",
+      "responsibilities": [
+        "Atención al público y proveedores.",
+        "Gestión administrativa y circuitos internos.",
+        "Manejo de caja chica.",
+        "Elaboración de reportes anuales en Excel."
+      ]
+    },
+    {
+      "company": "Universidad Nacional de San Juan — Área de Sistemas",
+      "role": "Soporte Técnico Administrativo",
+      "period": "2020 - 2023",
+      "responsibilities": [
+        "Asistencia a usuarios del sistema de socios.",
+        "Resolución de incidencias.",
+        "Mantenimiento funcional de software.",
+        "Documentación de procesos internos."
+      ]
+    }
+  ],
+
+  "education": [
+    { "title": "Ingeniería Industrial (4 años cursados)", "institution": "UNSJ" },
+    { "title": "Cursos", "items": ["Excel Avanzado", "Power BI Inicial", "Administración Pública"] }
+  ],
+
+  "softSkills": ["Responsabilidad", "Empatía", "Precisión", "Trabajo colaborativo"]
+}

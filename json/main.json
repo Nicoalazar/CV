@@ -1,0 +1,128 @@
+{
+  "name": "Nicolás Zalazar",
+  "position": "Desarrollador Full Stack Junior",
+  "location": "Buenos Aires, Argentina",
+  "contact": {
+    "phone": "11 3027 5883",
+    "email": "nicozalazar67@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar",
+    "github": "https://github.com/Nicoalazar"
+  },
+
+  "summary": "Desarrollador Full Stack Junior con experiencia demostrada en el sector salud. Dominio de Node.js, Angular y SQL. Capaz de crear, mantener y mejorar módulos completos, optimizar consultas complejas y trabajar bajo metodologías ágiles. Perfil analítico, adaptable y orientado a resolver problemas reales con calidad y eficiencia.",
+
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "SQL", "C#"],
+    "backend": ["Node.js", "AdonisJS", "Express"],
+    "frontend": ["Angular", "Bootstrap", "Angular Material", "React (en aprendizaje)", "Tailwind CSS"],
+    "databases": ["SQL Server", "MySQL", "PostgreSQL"],
+    "devops": ["Docker", "GitHub", "Railway", "Render", "Vercel"],
+    "tools": ["VS Code", "Visual Studio", "Postman"],
+    "methodologies": ["Scrum", "Kanban", "Sprints"]
+  },
+
+  "experience": [
+    {
+      "company": "Hospital — Área de Sistemas",
+      "role": "Programador Full Stack Junior",
+      "period": "2023 - Actualidad",
+      "technologies": ["Node.js", "Angular", "SQL Server", "C#", "Docker"],
+      "responsibilities": [
+        "Desarrollo y mantenimiento de sistemas internos hospitalarios.",
+        "Implementación y optimización de APIs en Node.js.",
+        "Creación de vistas, funciones y stored procedures.",
+        "Integración backend-frontend con Angular.",
+        "Refactorización de módulos para mejorar rendimiento.",
+        "Corrección de bugs en sistemas productivos.",
+        "Documentación técnica y trabajo en sprints ágiles."
+      ]
+    },
+    {
+      "company": "Gobierno de la Ciudad de Buenos Aires",
+      "role": "Profesor de Análisis de Datos (Codo a Codo)",
+      "period": "2023 - 2024",
+      "responsibilities": [
+        "Dictado de clases de Excel y Power BI.",
+        "Creación de actividades prácticas.",
+        "Acompañamiento en proyectos finales."
+      ]
+    },
+    {
+      "company": "Universidad Nacional de San Juan — Área de Sistemas",
+      "role": "Soporte Técnico y Mantenimiento de Software",
+      "period": "2020 - 2023",
+      "technologies": ["C#", ".NET Framework", "SQL"],
+      "responsibilities": [
+        "Soporte técnico a usuarios del sistema de socios.",
+        "Mantenimiento correctivo del sistema en C#/.NET.",
+        "Optimización de consultas SQL.",
+        "Detección y resolución de incidencias funcionales.",
+        "Documentación de mejoras."
+      ]
+    },
+    {
+      "company": "Universidad Nacional de San Juan",
+      "role": "Administrativo",
+      "period": "2015 - 2020",
+      "responsibilities": [
+        "Gestión administrativa general.",
+        "Atención al público y proveedores.",
+        "Elaboración de reportes basados en datos."
+      ]
+    },
+    {
+      "company": "UNSJ — Facultad de Ingeniería",
+      "role": "Ayudante de Cátedra (Estadística y Economía)",
+      "period": "2020 - 2022",
+      "responsibilities": [
+        "Apoyo en clases prácticas.",
+        "Refuerzo de conceptos estadísticos.",
+        "Acompañamiento en ejercicios y trabajos."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "title": "Tecnicatura en Desarrollo de Software",
+      "institution": "IFTS N°29",
+      "status": "En curso"
+    },
+    {
+      "title": "Ingeniería Industrial (4 años cursados)",
+      "institution": "UNSJ",
+      "details": "70% de finales aprobados"
+    },
+    {
+      "title": "Cursos Técnicos",
+      "items": [
+        "Desarrollo Backend con Node.js",
+        "Angular Avanzado",
+        "SQL y Bases de Datos",
+        "C#",
+        "Docker",
+        "Lógica Computacional",
+        "Git & GitHub Projects"
+      ]
+    }
+  ],
+
+  "softSkills": [
+    "Pensamiento analítico",
+    "Autogestión",
+    "Comunicación técnica",
+    "Adaptabilidad",
+    "Trabajo en equipo",
+    "Resolución de problemas complejos"
+  ],
+
+  "interests": ["Ajedrez", "Programación", "Handball", "Fútbol amateur"],
+
+  "volunteering": [
+    {
+      "role": "Profesor voluntario",
+      "period": "2013 - 2016",
+      "details": "Clases gratuitas de apoyo escolar y universitario."
+    }
+  ]
+}

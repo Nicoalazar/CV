@@ -1,0 +1,61 @@
+{
+  "name": "Nicolás Zalazar",
+  "position": "Backend Developer Junior",
+  "location": "Buenos Aires, Argentina",
+  "contact": {
+    "phone": "11 3027 5883",
+    "email": "nicozalazar67@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar",
+    "github": "https://github.com/Nicoalazar"
+  },
+
+  "summary": "Backend Developer Junior especializado en Node.js y bases de datos SQL. Experiencia creando APIs REST, consultando y optimizando datos en SQL Server/MySQL, trabajando con arquitecturas modulares y resolviendo problemas en sistemas críticos del sector salud. Perfil orientado a la eficiencia, calidad de datos y optimización de procesos.",
+
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "SQL", "C#"],
+    "backend": ["Node.js", "AdonisJS", "Express"],
+    "architecture": ["APIs REST", "Servicios modulares", "Middlewares", "Streams"],
+    "databases": ["SQL Server", "MySQL", "PostgreSQL"],
+    "optimization": ["Índices", "Queries complejas", "Stored Procedures"],
+    "devops": ["Docker", "GitHub", "Railway", "Render"],
+    "tools": ["VS Code", "Postman"],
+    "methodologies": ["Scrum", "Sprints", "Kanban"]
+  },
+
+  "experience": [
+    {
+      "company": "Hospital — Área de Sistemas",
+      "role": "Backend Developer Junior",
+      "period": "2023 - Actualidad",
+      "technologies": ["Node.js", "SQL Server", "MySQL", "C#", "Docker"],
+      "responsibilities": [
+        "Desarrollo y mantenimiento de APIs REST en Node.js.",
+        "Optimización de consultas SQL críticas.",
+        "Diseño de servicios backend y módulos reutilizables.",
+        "Implementación de stored procedures, funciones y triggers.",
+        "Corrección de bugs y mejora de performance.",
+        "Documentación técnica de endpoints y procesos."
+      ]
+    },
+    {
+      "company": "Universidad Nacional de San Juan — Área de Sistemas",
+      "role": "Mantenimiento de Software / SQL",
+      "period": "2020 - 2023",
+      "technologies": ["C#", ".NET", "SQL"],
+      "responsibilities": [
+        "Mantenimiento del backend del sistema de socios.",
+        "Optimización de consultas y estructuras.",
+        "Resolución de incidencias reportadas por usuarios.",
+        "Ajustes en lógica de negocio en C#."
+      ]
+    }
+  ],
+
+  "education": [
+    { "title": "Tecnicatura en Desarrollo de Software", "institution": "IFTS N°29", "status": "En curso" },
+    { "title": "Ingeniería Industrial (4 años cursados)", "institution": "UNSJ" },
+    { "title": "Cursos", "items": ["Node.js Backend", "SQL Avanzado", "Docker", "Git & GitHub", "Lógica Computacional"] }
+  ],
+
+  "softSkills": ["Análisis", "Resolución de problemas", "Claridad técnica", "Autonomía", "Aprendizaje rápido"]
+}

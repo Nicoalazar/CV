@@ -1,0 +1,46 @@
+{
+  "name": "Nicolás Zalazar",
+  "position": "Frontend Developer Junior",
+  "location": "Buenos Aires, Argentina",
+  "contact": {
+    "phone": "11 3027 5883",
+    "email": "nicozalazar67@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar",
+    "github": "https://github.com/Nicoalazar"
+  },
+
+  "summary": "Frontend Developer Junior con experiencia construyendo interfaces en Angular para sistemas críticos. Capaz de crear componentes escalables, formularios reactivos, consumo de APIs, estilos responsivos y dashboards funcionales. Perfil orientado a la experiencia del usuario, la prolijidad visual y la optimización del frontend.",
+
+  "skills": {
+    "frontend": ["Angular", "Bootstrap", "Angular Material", "Tailwind", "HTML5", "CSS3"],
+    "javascript": ["TypeScript", "RxJS", "Observables"],
+    "architecture": ["Componentes", "Servicios", "Inyección de dependencias"],
+    "tools": ["VS Code", "Postman", "GitHub"],
+    "backend_basic": ["Node.js", "Express"],
+    "design": ["Responsive Design", "UI limpia", "Buenas prácticas CSS"]
+  },
+
+  "experience": [
+    {
+      "company": "Hospital — Área de Sistemas",
+      "role": "Frontend Developer Junior",
+      "period": "2023 - Actualidad",
+      "technologies": ["Angular", "Bootstrap", "Tailwind", "Node.js"],
+      "responsibilities": [
+        "Construcción de componentes Angular escalables.",
+        "Integración con APIs internas.",
+        "Formularios y validaciones.",
+        "Estilos responsivos y UI consistente.",
+        "Mejora de módulos existentes y refactorización.",
+        "Optimización de tiempos de carga."
+      ]
+    }
+  ],
+
+  "education": [
+    { "title": "Tecnicatura en Desarrollo de Software", "institution": "IFTS N°29", "status": "En curso" },
+    { "title": "Cursos", "items": ["Angular Avanzado", "HTML/CSS", "Reactive Forms", "GitHub Projects"] }
+  ],
+
+  "softSkills": ["Atención al detalle", "Colaboración", "Aprendizaje rápido", "Comunicación clara"]
+}
