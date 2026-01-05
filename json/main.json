@@ -2,37 +2,73 @@
   "name": "Nicolás Zalazar",
   "title": "Desarrollador Full Stack Junior",
   "location": "Buenos Aires, Argentina",
-
-  "phone": "11 3027 5883",
-  "email": "nicozalazar67@gmail.com",
-  "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar",
-  "github": "https://github.com/Nicoalazar",
-
-  "profile": "Desarrollador Fullstack con experiencia real en sistemas críticos del sector salud y plataformas SaaS. Dominio sólido de Angular y Node.js, con prácticas modernas de desarrollo, componentes reutilizables, consumo de APIs REST, validaciones, modularidad backend y performance. Experiencia demostrable en entornos con datos sensibles y arquitectura escalable. Excelente comunicación, enfoque en buenas prácticas y entrega de valor continuo en sprints ágiles. Busco aportar en productos tecnológicos desafiantes y de alto impacto.",
-
-  "skills": {
-    "languages": ["JavaScript (ES6+)", "TypeScript", "SQL", "C#"],
-    "backend": ["Node.js", "AdonisJS", "Express"],
-    "frontend": ["Angular", "Bootstrap", "Angular Material", "React (en aprendizaje)", "Tailwind CSS", "CSS3", "Angular Material"],
-    "databases": ["SQL Server", "MySQL", "PostgreSQL", "MongoDb"],
-    "devops": ["Docker", "GitHub", "Railway", "Render", "Vercel"],
-    "tools": ["VS Code", "Visual Studio", "Postman"],
-    "methods": ["Scrum", "Kanban", "Sprints"]
+  "contact": {
+    "phone": "11 3027 5883",
+    "email": "nicozalazar67@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar",
+    "github": "https://github.com/Nicoalazar"
   },
-
+  "profile": "Desarrollador Fullstack con experiencia real en sistemas críticos del sector salud y plataformas SaaS. Dominio sólido de Angular y Node.js, con prácticas modernas de desarrollo, componentes reutilizables, consumo de APIs REST, validaciones, modularidad backend y performance. Experiencia demostrable en entornos con datos sensibles y arquitectura escalable. Excelente comunicación, enfoque en buenas prácticas y entrega de valor continuo en sprints ágiles. Busco aportar en productos tecnológicos desafiantes y de alto impacto.",
+  "skills": {
+    "languages": [
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "SQL",
+      "C#"
+    ],
+    "backend": [
+      "Node.js",
+      "AdonisJS",
+      "Express"
+    ],
+    "frontend": [
+      "Angular",
+      "Bootstrap",
+      "Angular Material",
+      "React (en aprendizaje)",
+      "Tailwind CSS",
+      "CSS3"
+    ],
+    "databases": [
+      "SQL Server",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "versionControl": [
+      "Git",
+      "GitHub"
+    ],
+    "deployment": [
+      "Docker",
+      "Railway",
+      "Render",
+      "Vercel"
+    ],
+    "tools": [
+      "VS Code",
+      "Visual Studio",
+      "Postman"
+    ],
+    "methodologies": [
+      "Scrum",
+      "Kanban",
+      "Sprints Ágiles"
+    ]
+  },
   "experience": [
     {
       "company": "Hospital — Área de Sistemas",
       "role": "Programador Full Stack Junior",
       "period": "2023 - Actualidad",
       "responsibilities": [
-        "Desarrollo y mantenimiento de sistemas internos hospitalarios.",
-        "Implementación y optimización de APIs en Node.js.",
-        "Creación de vistas, funciones y stored procedures.",
-        "Integración backend-frontend con Angular.",
-        "Refactorización de módulos para mejorar rendimiento.",
-        "Corrección de bugs en sistemas productivos.",
-        "Documentación técnica y trabajo en sprints ágiles."
+        "Desarrollo y mantenimiento de sistemas internos hospitalarios",
+        "Implementación y optimización de APIs REST en Node.js",
+        "Creación de vistas, funciones y stored procedures en SQL Server",
+        "Integración backend-frontend con Angular y TypeScript",
+        "Refactorización de módulos para mejorar rendimiento y escalabilidad",
+        "Corrección de bugs críticos en sistemas productivos",
+        "Documentación técnica y trabajo en sprints ágiles con metodología Scrum"
       ]
     },
     {
@@ -40,9 +76,9 @@
       "role": "Profesor de Análisis de Datos (Codo a Codo)",
       "period": "2023 - 2024",
       "responsibilities": [
-        "Dictado de clases de Excel y Power BI.",
-        "Creación de actividades prácticas.",
-        "Acompañamiento en proyectos finales."
+        "Dictado de clases de Excel avanzado y Power BI",
+        "Creación de actividades prácticas y casos de uso reales",
+        "Acompañamiento personalizado en proyectos finales de los estudiantes"
       ]
     },
     {
@@ -50,11 +86,11 @@
       "role": "Soporte Técnico y Mantenimiento de Software",
       "period": "2020 - 2023",
       "responsibilities": [
-        "Soporte técnico a usuarios del sistema de socios.",
-        "Mantenimiento correctivo del sistema en C#/.NET.",
-        "Optimización de consultas SQL.",
-        "Detección y resolución de incidencias funcionales.",
-        "Documentación de mejoras."
+        "Soporte técnico a usuarios del sistema de gestión de socios",
+        "Mantenimiento correctivo del sistema desarrollado en C#/.NET",
+        "Optimización de consultas SQL para mejorar tiempos de respuesta",
+        "Detección y resolución de incidencias funcionales",
+        "Documentación de mejoras y cambios implementados"
       ]
     },
     {
@@ -62,9 +98,9 @@
       "role": "Administrativo",
       "period": "2015 - 2020",
       "responsibilities": [
-        "Gestión administrativa general.",
-        "Atención al público y proveedores.",
-        "Elaboración de reportes basados en datos."
+        "Gestión administrativa general del área",
+        "Atención al público y proveedores",
+        "Elaboración de reportes basados en datos y análisis"
       ]
     },
     {
@@ -72,40 +108,60 @@
       "role": "Ayudante de Cátedra (Estadística y Economía)",
       "period": "2020 - 2022",
       "responsibilities": [
-        "Apoyo en clases prácticas.",
-        "Refuerzo de conceptos estadísticos.",
-        "Acompañamiento en ejercicios y trabajos."
+        "Apoyo en clases prácticas de Estadística y Economía",
+        "Refuerzo de conceptos teóricos con ejercicios aplicados",
+        "Acompañamiento en trabajos prácticos y proyectos"
       ]
     }
   ],
-
   "education": [
     {
       "title": "Tecnicatura en Desarrollo de Software",
       "institution": "IFTS N°29",
-      "details": "En curso - Avanzado"
+      "status": "En curso - Avanzado",
+      "location": "Buenos Aires, Argentina"
     },
     {
-      "title": "Ingeniería Industrial (4 años cursados)",
-      "institution": "UNSJ",
-      "details": "70% de finales aprobados"
-    },
-    {
-      "title": "Cursos Técnicos",
-      "institution": "",
-      "items": [
-        "Desarrollo Backend con Node.js",
-        "Angular Avanzado",
-        "SQL y Bases de Datos",
-        "C#",
-        "Docker",
-        "Lógica Computacional",
-        "Git & GitHub Projects",
-        "React.js"
-      ]
+      "title": "Ingeniería Industrial",
+      "institution": "Universidad Nacional de San Juan (UNSJ)",
+      "status": "4 años cursados - 70% de finales aprobados",
+      "location": "San Juan, Argentina"
     }
   ],
-
+  "courses": [
+    {
+      "name": "Desarrollo Backend con Node.js",
+      "category": "Backend"
+    },
+    {
+      "name": "Angular Avanzado",
+      "category": "Frontend"
+    },
+    {
+      "name": "SQL y Bases de Datos",
+      "category": "Databases"
+    },
+    {
+      "name": "C# y .NET",
+      "category": "Backend"
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps"
+    },
+    {
+      "name": "Lógica Computacional",
+      "category": "Fundamentos"
+    },
+    {
+      "name": "Git & GitHub Projects",
+      "category": "Version Control"
+    },
+    {
+      "name": "React.js",
+      "category": "Frontend"
+    }
+  ],
   "softSkills": [
     "Pensamiento analítico",
     "Autogestión",
@@ -113,23 +169,29 @@
     "Adaptabilidad",
     "Trabajo en equipo",
     "Resolución de problemas complejos",
-    "Clean Code", 
+    "Clean Code"
   ],
-
-  "languages" : ["Inglés B1 - En crecimiento"],
-
+  "languages": [
+    {
+      "language": "Español",
+      "level": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "level": "B1 - En crecimiento"
+    }
+  ],
   "interests": [
     "Ajedrez",
     "Programación",
     "Handball",
     "Fútbol amateur"
   ],
-
   "volunteering": [
     {
       "role": "Profesor voluntario",
       "period": "2013 - 2016",
-      "details": "Clases gratuitas de apoyo escolar y universitario."
+      "details": "Clases gratuitas de apoyo escolar y universitario en matemáticas y física"
     }
   ]
 }
