@@ -8,13 +8,13 @@
   "linkedin": "https://www.linkedin.com/in/nicolasjoelzalazar",
   "github": "https://github.com/Nicoalazar",
 
-  "profile": "Desarrollador Full Stack Junior con experiencia demostrada en el sector salud. Dominio de Node.js, Angular y SQL. Capaz de crear, mantener y mejorar módulos completos, optimizar consultas complejas y trabajar bajo metodologías ágiles. Perfil analítico, adaptable y orientado a resolver problemas reales con calidad y eficiencia.",
+  "profile": "Desarrollador Fullstack con experiencia real en sistemas críticos del sector salud y plataformas SaaS. Dominio sólido de Angular y Node.js, con prácticas modernas de desarrollo, componentes reutilizables, consumo de APIs REST, validaciones, modularidad backend y performance. Experiencia demostrable en entornos con datos sensibles y arquitectura escalable. Excelente comunicación, enfoque en buenas prácticas y entrega de valor continuo en sprints ágiles. Busco aportar en productos tecnológicos desafiantes y de alto impacto.",
 
   "skills": {
-    "languages": ["JavaScript", "TypeScript", "SQL", "C#"],
+    "languages": ["JavaScript (ES6+)", "TypeScript", "SQL", "C#"],
     "backend": ["Node.js", "AdonisJS", "Express"],
-    "frontend": ["Angular", "Bootstrap", "Angular Material", "React (en aprendizaje)", "Tailwind CSS"],
-    "databases": ["SQL Server", "MySQL", "PostgreSQL"],
+    "frontend": ["Angular", "Bootstrap", "Angular Material", "React (en aprendizaje)", "Tailwind CSS", "CSS3", "Angular Material"],
+    "databases": ["SQL Server", "MySQL", "PostgreSQL", "MongoDb"],
     "devops": ["Docker", "GitHub", "Railway", "Render", "Vercel"],
     "tools": ["VS Code", "Visual Studio", "Postman"],
     "methods": ["Scrum", "Kanban", "Sprints"]
@@ -83,7 +83,7 @@
     {
       "title": "Tecnicatura en Desarrollo de Software",
       "institution": "IFTS N°29",
-      "details": "En curso"
+      "details": "En curso - Avanzado"
     },
     {
       "title": "Ingeniería Industrial (4 años cursados)",
@@ -100,7 +100,8 @@
         "C#",
         "Docker",
         "Lógica Computacional",
-        "Git & GitHub Projects"
+        "Git & GitHub Projects",
+        "React.js"
       ]
     }
   ],
@@ -111,8 +112,11 @@
     "Comunicación técnica",
     "Adaptabilidad",
     "Trabajo en equipo",
-    "Resolución de problemas complejos"
+    "Resolución de problemas complejos",
+    "Clean Code", 
   ],
+
+  "languages" : ["Inglés B1 - En crecimiento"],
 
   "interests": [
     "Ajedrez",
